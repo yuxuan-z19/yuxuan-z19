@@ -9,7 +9,7 @@
 
 ## Projects
 
-- [yuxuan=z19/nuint](https://github.com/yuxuan-z19/nuint) : RV64N User-level Interrupt Implementation
+- [nuint](https://github.com/yuxuan-z19/nuint) : RV64N User-level Interrupt Implementation
 
 ## Publications
 
