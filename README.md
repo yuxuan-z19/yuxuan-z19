@@ -11,9 +11,3 @@
 ## Publications
 
 *Nothing here at the moment*
-
-## Projects
-
-|Project|README|
-|:-:|:-|
-|[PyNNX](https://github.com/yuxuan-z19/PyNN)|[PyNN](https://github.com/NeuralEnsemble/PyNN) framework with ONNX backend|
