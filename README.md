@@ -1,6 +1,6 @@
 # A Newbie to CRAFT :rocket:
 
-*The way & day to celebrate, I’ll be waiting, till we make it.* 
+_No further hesitation / on those unanswered questions / So now, I'll make a dream unchained_
 
 > **CRAFT** is the abbreviation of "**C**omputing, neu**R**omorphic, **A**rchitecture, **F**ramework, sys**T**em". 
 
