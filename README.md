@@ -1,4 +1,4 @@
-# A Trailblazer in CRAFT :rocket:
+# A CRAFT Trailblazer :rocket:
 
 _No further hesitation / on those unanswered questions / So now, I'll make a dream unchained_
 
