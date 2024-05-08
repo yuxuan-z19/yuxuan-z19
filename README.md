@@ -1,5 +1,6 @@
 # A CRAFT Trailblazer :rocket:
 
+_May this journey lead us starward_  
 _No further hesitation / on those unanswered questions / So now, I'll make a dream unchained_
 
 > **CRAFT** is the abbreviation of "**C**omputing, neu**R**omorphic, **A**rchitecture, **F**ramework, sys**T**em". 
