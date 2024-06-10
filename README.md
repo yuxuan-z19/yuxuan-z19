@@ -2,7 +2,7 @@
 
 _No further hesitation / on those unanswered questions / So now, I'll make a dream unchained_
 
-> **CRAFT** is the abbreviation of "**C**omputing, neu**R**omorphic, **A**rchitecture, **F**ramework, sys**T**em". 
+> **CRAFT** stands for "**C**omputing, neu**R**omorphic, **A**rchitecture, **F**ramework, sys**T**em". 
 
 ## Who Am I
 
@@ -10,8 +10,10 @@ _No further hesitation / on those unanswered questions / So now, I'll make a dre
 |:-|:-|:-:|
 |A master student pursuing his **PERF** dream at [CRAFT Lab, Tsinghua University, China.](https://craft.cs.tsinghua.edu.cn/) | Analysis and design of emerging devices and systems |**[yuxuanzh23@mails.tsinghua.edu.cn](mailto:yuxuanzh23@mails.tsinghua.edu.cn)** </br> [yuxuan-z19@qq.com](mailto:yuxuan-z19@qq.com)|
 
+### Services
+
 - PC Maintainer at [Humanities & Social Sciences Library](https://lib.tsinghua.edu.cn/hs/) _(2024.02-Now)_
-- TA of "Introduction to Computer Systems" (Course ID: 30240593-1) _(2023.09-2024.02)_
+- TA for "Introduction to Computer Systems" (Course ID: 30240593-1) _(2023.09-2024.02)_
 
 ## Projects
 
