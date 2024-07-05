@@ -1,10 +1,8 @@
-# A CRAFT Trailblazer :rocket:
+# A PERF Trailblazer :rocket:
 
 _No further hesitation / on those unanswered questions / So now, I'll make a dream unchained_
 
-> **CRAFT** stands for "**C**omputing, neu**R**omorphic, **A**rchitecture, **F**ramework, sys**T**em". 
-
-## Who Am I
+## Who I Am
 
 |About Me :beginner:|Interests :microscope:|Contact :envelope:|
 |:-|:-|:-:|
@@ -12,9 +10,10 @@ _No further hesitation / on those unanswered questions / So now, I'll make a dre
 
 ### Services
 
-- Vice Chairman + Event Planner of Tsinghua University Student Association of AI Architecture (THAAIA) _(2024.06-Now)_
+- Vice Chairman of Tsinghua University Student Association of AI Architecture (THAAIA) _(2024.06-Now)_
 - PC Maintainer at [Humanities & Social Sciences Library](https://lib.tsinghua.edu.cn/hs/) _(2024.02-Now)_
-- TA for "Introduction to Computer Systems" (Course ID: 30240593-1) _(2023.09-2024.02)_
+- TA for "Innovation Practice of Technology Products" (Course ID: 31510253) _(2023-2024 Summer)_
+- TA for "Introduction to Computer Systems" (Course ID: 30240593) _(2023-2024 Fall)_
 
 ## Projects
 
