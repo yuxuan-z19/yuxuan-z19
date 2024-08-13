@@ -1,19 +1,23 @@
-# A PERF Trailblazer :rocket:
+# A PERF Trailblazer 🌠:
 
-_No further hesitation / on those unanswered questions / So now, I'll make a dream unchained_
+_"There are three basic principles for happiness at work – do not be proactive, do not say no, and do not be responsible. You should give it a try~"_
+_"「快乐工作的基本要诀」一共就三条——不主动，不拒绝，不负责。来，试试看？"_
 
 ## Who I Am
 
-|About Me :beginner:|Interests :microscope:|Contact :envelope:|
-|:-|:-|:-:|
-|A master student pursuing his **PERF** dream at [CRAFT Lab, Tsinghua University, China.](https://craft.cs.tsinghua.edu.cn/) | Analysis and design of emerging devices and systems |**[yuxuanzh23@mails.tsinghua.edu.cn](mailto:yuxuanzh23@mails.tsinghua.edu.cn)** </br> [yuxuan-z19@qq.com](mailto:yuxuan-z19@qq.com)|
+|About Me :beginner:|Research Interests :microscope:|Hobbies :wrench:|Contact :envelope:|
+|:-|:-|:-|:-:|
+|A master newbie (?) pursuing his **PERF** dream at [CRAFT Lab, Tsinghua University, China.](https://craft.cs.tsinghua.edu.cn/) | * Performance evaluation, optimization & forecasting </br> * AutoML for graphs | > Embedded system (robots, sensors, and AI models) </br> > Roguelike/te + build-sim fancier |[yuxuan-z19@qq.com](mailto:yuxuan-z19@qq.com)|
 
 ### Services
 
-- Vice Chairman of [Tsinghua University Student Association of AI Architecture (THAAIA)]() _(2024.06-Now)_
-- PC Maintainer at [Tsinghua University Humanities & Social Sciences Library](https://lib.tsinghua.edu.cn/hs/) _(2024.02-Now)_
-- TA for "Innovation Practice of Technology Products"/《科技产品创新实践》 (31510253) _(2023-2024 Summer)_
-- TA for "Introduction to Computer Systems"/《计算机系统概论》 (30240593) _(2023-2024 Fall)_
+- PC Hardware/Software (HW/SW) Maintainer at [Humanities & Social Sciences Library](https://lib.tsinghua.edu.cn/hs/) _(2024.02-Now)_
+- TA for "Innovation Practice of Technology Products"/《科技产品创新实践》 (31510253), [I-Center](https://www.icenter.tsinghua.edu.cn/)  _(2023-2024 Summer)_
+- TA for "Introduction to Computer Systems"/《计算机系统概论》 (30240593), [Dept. CST](https://www.cs.tsinghua.edu.cn/) _(2023-2024 Fall)_
+
+## Publications
+
+*Nothing here at the moment though... but WHO CARES _ (:з」∠) _*
 
 ## Projects
 
