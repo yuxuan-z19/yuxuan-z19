@@ -1,6 +1,6 @@
 # A PERF Trailblazer 🌠:
 
-_"There are three basic principles for happiness at work – do not be proactive, do not say no, and do not be responsible. You should give it a try~"_
+_"There are three basic principles for happiness at work – do not be proactive, do not say no, and do not be responsible. You should give it a try~"_  
 _"「快乐工作的基本要诀」一共就三条——不主动，不拒绝，不负责。来，试试看？"_
 
 ## Who I Am
