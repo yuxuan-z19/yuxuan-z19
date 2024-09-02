@@ -1,4 +1,4 @@
-# A PERF Trailblazer 🌠:
+# A PERF Trailblazer 🌠
 
 _"There are three basic principles for happiness at work – do not be proactive, do not say no, and do not be responsible. You should give it a try~"_  
 _"「快乐工作的基本要诀」一共就三条——不主动，不拒绝，不负责。来，试试看？"_
@@ -12,7 +12,7 @@ _"「快乐工作的基本要诀」一共就三条——不主动，不拒绝，
 ### Services
 
 - PC Hardware/Software (HW/SW) Maintainer at [Humanities & Social Sciences Library](https://lib.tsinghua.edu.cn/hs/) _(2024.02-Now)_
-- TA for "Innovation Practice of Technology Products"/《科技产品创新实践》 (31510253), [I-Center](https://www.icenter.tsinghua.edu.cn/)  _(2023-2024 Summer)_
+- TA for "Innovation Practice of Technology Products"/《科技产品创新实践》 (31510253), [iCenter](https://www.icenter.tsinghua.edu.cn/)  _(2023-2024 Summer)_
 - TA for "Introduction to Computer Systems"/《计算机系统概论》 (30240593), [Dept. CST](https://www.cs.tsinghua.edu.cn/) _(2023-2024 Fall)_
 
 ## Publications
