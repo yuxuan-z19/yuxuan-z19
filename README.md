@@ -8,7 +8,7 @@ _"No further hesitation / On those unanswered questions / So now, I'll make a dr
 |:-|:-|:-:|
 |A master student pursuing his **SRE** dream at [CRAFT Lab, Tsinghua University, China.](https://craft.cs.tsinghua.edu.cn/) | * Performance  forecasting + HPC Resource scheduling </br> * AutoML for temporal graphs </br> * PEFT + Accelerate for LLMs | **[yuxuanzh23@mails.tsinghua.edu.cn](mailto:yuxuanzh23@mails.tsinghua.edu.cn)** </br> [yuxuan-z19@qq.com](mailto:yuxuan-z19@qq.com) |
 
-In short, I'm trying, from both the designer's and analyst's perspective, to answer this [open-ended question](https://doi.org/10.1145/1837853.1693493):
+In short, I'm trying to answer this [open-ended question](https://doi.org/10.1145/1837853.1693493):
 
 > _"What is the performance of an application X on a parallel machine Y with 10000 nodes connected by network Z?"_
 
