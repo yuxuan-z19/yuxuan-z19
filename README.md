@@ -19,7 +19,7 @@ In short, I'm trying to answer the following [open question](https://doi.org/10.
 
 ### Services _(sorted by end time)_
 
-- [2025.02-Now] R&D Group Leader _(in prep.)_ of [THUSAAC](https://thusaac.com/)
+- [2025.02-Now] R&D Group Leader _(in prep.)_ of [THUSAA (formerly THUSAAC)](https://thusaac.com/)
 - [2024.04-2025.04] Community Manage of [T+Z Technology Review](https://tanzhen.tsinghua.edu.cn/)
 - [2024.02-2025.01] General Office Assistant + PC Maintainer at [Humanities & Social Sciences Library](https://lib.tsinghua.edu.cn/hs/)
 - [2024-2025 Fall] TA _(part-time)_ for "Introduction to Computer Systems"/《计算机系统概论》 (30240593), [Dept. CST](https://www.cs.tsinghua.edu.cn/) 
