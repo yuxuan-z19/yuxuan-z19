@@ -12,7 +12,8 @@ I'm working on this [open question](https://doi.org/10.1145/1693453.1693493) rig
 |:-|:-|:-:|
 |Yee Hin **CHONG** (**张** 宇轩), a master's student pursuing his **SRE** dream | * Performance forecasting + HPC Resource scheduling </br> * PEFT + Accelerate for LLMs </br> * AutoML for temporal graphs </br> * Parallel algorithms| **[yuxuanzh23@mails.tsinghua.edu.cn](mailto:yuxuanzh23@mails.tsinghua.edu.cn)** </br> [yuxuan-z19@qq.com](mailto:yuxuan-z19@qq.com) |
 
-> My name shares the same pronunciation /jiː-hɪn tʃɔŋ/ (IPA) in any language, such as **チョン**·イーヒン in Japanese. My surname, CHONG, usually comes first in East Asian languages. 
+> My name shares the same pronunciation /jiː-hɪn tʃɔŋ/ (IPA) in any language, such as **チョン**·イーヒン in Japanese.  
+> While my surname, CHONG, usually comes first in East Asian languages. 
 
 ### Education
 
