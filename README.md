@@ -12,8 +12,7 @@ I'm working on this [open question](https://doi.org/10.1145/1693453.1693493) rig
 |:-|:-|:-:|
 |Yee Hin **CHONG** (**张** 宇轩), a master's student pursuing his **SRE** dream | * Performance forecasting + HPC Resource scheduling </br> * PEFT + Accelerate for LLMs </br> * AutoML for temporal graphs </br> * Parallel algorithms| **[yuxuanzh23@mails.tsinghua.edu.cn](mailto:yuxuanzh23@mails.tsinghua.edu.cn)** </br> [yuxuan-z19@qq.com](mailto:yuxuan-z19@qq.com) |
 
-> My name shares the same pronunciation /jiː-hɪn tʃɔŋ/ (IPA) in any language, such as **チョン**·イーヒン in Japanese.  
-> While my surname, CHONG, usually comes first in East Asian languages. 
+It is pretty easy to call me by my name as it shares the same pronunciation /jiː-hɪn tʃɔŋ/ (IPA) in any language, such as **チョン**·イーヒン in Japanese. My surname, CHONG, usually comes first in East Asian languages. 
 
 ### Education
 
@@ -22,7 +21,7 @@ I'm working on this [open question](https://doi.org/10.1145/1693453.1693493) rig
 
 ### Services _(sorted by end time)_
 
-- [2025.02-Now] R&D Group Leader _(in prep.)_ of [THUSAA (formerly THUSAAC)](https://thusaac.com/), Tsinghua University, China.
+- [2025.02-Now] R&D Group Leader _(in prep.)_ of [THUSAA](https://thusaac.com/), Tsinghua University, China.
 - [2024.04-2025.04] Community Manage of [T+Z Technology Review](https://tanzhen.tsinghua.edu.cn/), Tsinghua University, China.
 - [2024.02-2025.01] General Office Assistant + PC Maintainer at [Humanities & Social Sciences Library](https://lib.tsinghua.edu.cn/hs/), Tsinghua University, China.
 - [2024-2025 Fall] TA _(part-time)_ for "Introduction to Computer Systems"/《计算机系统概论》 (30240593), [Dept. CST](https://www.cs.tsinghua.edu.cn/), Tsinghua University, China.
