@@ -10,9 +10,9 @@ _**"What is the performance of an application X on a parallel machine Y with 100
 
 |Who I Am :beginner:|Research Interests :microscope:|Contact :envelope:|
 |:-|:-|:-:|
-|Yee Hin **CHONG** (**张** 宇轩), a master's student pursuing his **SRE** dream | * Performance forecasting + HPC Resource scheduling </br> * PEFT + Accelerate for LLMs </br> * AutoML for temporal graphs </br> * Parallel algorithms| **[yuxuanzh23@mails.tsinghua.edu.cn](mailto:yuxuanzh23@mails.tsinghua.edu.cn)** </br> [yuxuan-z19@qq.com](mailto:yuxuan-z19@qq.com) |
+|A master's student pursuing his **PERF + SRE** dream | * Performance forecasting + HPC Resource scheduling </br> * PEFT + Accelerate for LLMs </br> * AutoML for temporal graphs| **[yuxuanzh23@mails.tsinghua.edu.cn](mailto:yuxuanzh23@mails.tsinghua.edu.cn)** </br> [yuxuan-z19@qq.com](mailto:yuxuan-z19@qq.com) |
 
-> _It is quite easy to pronounce my name, as it shares the same pronunciation /jiː-hɪn tʃɔŋ/ (IPA) in any language, such as **チョン**·イーヒン in Japanese. My surname, CHONG, usually comes first in East Asian languages._
+ <!-- _It is quite easy to pronounce my name, as it shares the same pronunciation /jiː-hɪn tʃɔŋ/ (IPA) in any language, such as **チョン**·イーヒン in Japanese. My surname, CHONG, usually comes first in East Asian languages._ -->
 
 ### Education
 
