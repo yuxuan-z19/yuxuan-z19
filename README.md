@@ -1,26 +1,32 @@
-# A PERF Trailblazer 🌠
+# A PERF+SRE Trailblazer 🌠
 
 _"No further hesitation / On those unanswered questions / So now, I'll make a dream unchained"_ 
 
 ## About Me
 
-I'm working on this [open question](https://doi.org/10.1145/1693453.1693493), applying AI and AIOps to solve the problem:
+I'm working on this [open question](https://doi.org/10.1145/1693453.1693493) tailored for LLM workloads:
 
 _**"What is the performance of an application X on a parallel machine Y with 10000 nodes connected by network Z?"**_
 
 |Who I Am :beginner:|Research Interests :microscope:|Contact :envelope:|
 |:-|:-|:-:|
-|A master's student pursuing his **PERF + SRE** dream | * Performance forecasting + HPC Resource scheduling </br> * PEFT + Accelerate for LLMs </br> * AutoML for temporal graphs| **[yuxuanzh23@mails.tsinghua.edu.cn](mailto:yuxuanzh23@mails.tsinghua.edu.cn)** </br> [yuxuan-z19@qq.com](mailto:yuxuan-z19@qq.com) |
+|A master's student pursuing his **PERF + SRE** dream | * Performance evaluation + Resource scheduling </br> * PEFT + Accelerate for LLMs </br> * Parallel Algorithms + PDES | **[yuxuanzh23@mails.tsinghua.edu.cn](mailto:yuxuanzh23@mails.tsinghua.edu.cn)** </br> [yuxuan-z19@qq.com](mailto:yuxuan-z19@qq.com) |
 
  <!-- _It is quite easy to pronounce my name, as it shares the same pronunciation /jiː-hɪn tʃɔŋ/ (IPA) in any language, such as **チョン**·イーヒン in Japanese. My surname, CHONG, usually comes first in East Asian languages._ -->
 
 ### Education
 
-- [2023.06-Now] M.Eng. in Computer Science and Technology (Major in Computer Systems Organization), supervised by [Prof. Youhui Zhang](https://scholar.google.com/citations?hl=zh-CN&user=ZlYjCsAAAAAJ) with [CRAFT Lab](https://craft.cs.tsinghua.edu.cn/), Dept. CST, Tsinghua University, China.
+- [2023.06-Now] M.Eng. in Computer Science and Technology (Major in Computer Systems Organization), advised by [Prof. Youhui Zhang](https://scholar.google.com/citations?hl=zh-CN&user=ZlYjCsAAAAAJ) with [CRAFT Lab](https://craft.cs.tsinghua.edu.cn/), Dept. CST, Tsinghua University, China.
 - [2019.08-2023.06] B.Eng. in Computer Science and Technology, Dept. CST, Tsinghua University, China.
 
-### Services _(sorted by end time)_
+### Experiences
 
+- [2022.06-2022.09] RTL Design Intern, Heterogeneous Computing Division, [Kuaishou Technology](https://zhaopin.kuaishou.cn/#/official/jianghu/) _(now [Transtreams Ltd.](https://www.transtreams.com/gylc))_
+  -  220831: Received the "Best Intern Award" (Top 3 Recipients)
+
+### Services
+
+- [2025.04-Now] TA for ["The 2nd EulixOS Training Camp"](https://opencamp.cn/EulixOS/camp/202501), [ISCAS](http://english.is.cas.cn/), China.
 - [2025.02-Now] R&D Group Leader _(in prep.)_ of [THUSAA](https://thusaac.com/), Tsinghua University, China.
 - [2024.04-2025.04] Community Manager of [T+Z Technology Review](https://tanzhen.tsinghua.edu.cn/), Tsinghua University, China.
 - [2024.02-2025.02] General Office Assistant + PC Maintainer at [Humanities & Social Sciences Library](https://lib.tsinghua.edu.cn/hs/), Tsinghua University, China.
