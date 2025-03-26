@@ -4,7 +4,7 @@ _"No further hesitation / On those unanswered questions / So now, I'll make a dr
 
 ## About Me
 
-I'm working on this [open question](https://doi.org/10.1145/1693453.1693493) tailored for LLM workloads:
+I'm working on this [open question](https://doi.org/10.1145/1693453.1693493) tailored for LLM workloads and heterogeneous clusters:
 
 _**"What is the performance of an application X on a parallel machine Y with 10000 nodes connected by network Z?"**_
 
@@ -26,6 +26,7 @@ _**"What is the performance of an application X on a parallel machine Y with 100
 
 ### Services
 
+- [2025.04-Now] Huawei Campus Ambassador
 - [2025.04-Now] TA for ["The 2nd EulixOS Training Camp"](https://opencamp.cn/EulixOS/camp/202501), [ISCAS](http://english.is.cas.cn/), China.
 - [2025.02-Now] R&D Group Leader _(in prep.)_ of [THUSAA](https://thusaac.com/), Tsinghua University, China.
 - [2024.04-2025.04] Community Manager of [T+Z Technology Review](https://tanzhen.tsinghua.edu.cn/), Tsinghua University, China.
