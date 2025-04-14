@@ -27,7 +27,7 @@ _**"What is the performance of an application X on a parallel machine Y with 100
 ### Services
 
 - [2025.04-Now] Huawei Campus Ambassador
-- [2025.04-Now] TA for ["The 2nd EulixOS Training Camp"](https://opencamp.cn/EulixOS/camp/202501), [ISCAS](http://english.is.cas.cn/), China.
+- [2025.04-Now] Head TA for ["The 2nd EulixOS Training Camp"](https://opencamp.cn/EulixOS/camp/202501), [ISCAS](http://english.is.cas.cn/), China.
 - [2025.02-Now] R&D Group Leader _(in prep.)_ of [THUSAA](https://thusaac.com/), Tsinghua University, China.
 - [2024.04-2025.04] Community Manager of [T+Z Technology Review](https://tanzhen.tsinghua.edu.cn/), Tsinghua University, China.
 - [2024.02-2025.02] General Office Assistant + PC Maintainer at [Humanities & Social Sciences Library](https://lib.tsinghua.edu.cn/hs/), Tsinghua University, China.
@@ -40,7 +40,7 @@ _**"What is the performance of an application X on a parallel machine Y with 100
 
 ### Publications
 
-*Nothing here at the moment though... but WHO CARES _ (:з」∠) _*
+*Nothing here at the moment, though... but WHO CARES _ (:з」∠) _*
 
 ### Projects
 
