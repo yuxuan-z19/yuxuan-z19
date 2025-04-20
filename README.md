@@ -10,7 +10,7 @@ _**"What is the performance of an application X on a parallel machine Y with 100
 
 |Who I Am :beginner:|Research Interests :microscope:|Contact :envelope:|
 |:-|:-|:-:|
-|A master's student pursuing his **PERF** dream | * Performance evaluation + Resource scheduling </br> * PEFT + Accelerate </br> * AutoML for temporal graphs | **[yuxuanzh23@mails.tsinghua.edu.cn](mailto:yuxuanzh23@mails.tsinghua.edu.cn)** </br> [yuxuan-z19@qq.com](mailto:yuxuan-z19@qq.com) |
+|An ENFJ analyst pursuing his **PERF** dream | * Performance evaluation + Resource scheduling </br> * PEFT + Accelerate for LLMs </br> * AutoML for temporal graphs | **[yuxuanzh23@mails.tsinghua.edu.cn](mailto:yuxuanzh23@mails.tsinghua.edu.cn)** </br> [yuxuan-z19@qq.com](mailto:yuxuan-z19@qq.com) |
 
  <!-- _It is pretty easy to pronounce my name, as it shares the same pronunciation /jiː-hɪn tʃɔŋ/ (IPA) in any language, such as **チョン**·イーヒン in Japanese. My surname, CHONG, usually comes first in East Asian languages._ -->
 
@@ -25,7 +25,7 @@ _**"What is the performance of an application X on a parallel machine Y with 100
  <summary>Interns</summary>
  
  - [2022.06-2022.09] RTL Design Intern, Heterogeneous Computing Division, [Kuaishou Technology](https://zhaopin.kuaishou.cn/#/official/jianghu/) _(now [Transtreams Ltd.](https://www.transtreams.com/gylc))_
-  -  220831: Received the "Best Intern Award" (Top 3 Recipients)
+   -  220831: Received the "Best Intern Award" (Top 3 Recipients)
 </details>
 
 <details>
