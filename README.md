@@ -1,10 +1,10 @@
 # Ex-PERF, LLM codesign newbie
 
-_"No further hesitation / On those unanswered questions / So now, I'll make a dream unchained"_ 
+_"Cleave the darkness, and seize the light / Daybreak's meant to be free / We are gonna shatter the ties "_ 
 
 ## About Me
 
-Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance on massive heterogeneous clusters:
+Benchmarked neuromorphic systems for 3 years (see [résumé](./yeehinc19.pdf)); now wrestling with LLM performance on massive heterogeneous clusters:
 
 |Research Interests :microscope:| Hobbies :jigsaw:|
 |:-|:-|
@@ -29,7 +29,7 @@ Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance
 <details>
  <summary>Services</summary>
  
-- [2025.04-Now] Huawei Campus Ambassador
+- **[2025.04-Now] Huawei Campus Ambassador**
 - [2025.04-2025.05] Head TA for ["The 2nd EulixOS Training Camp"](https://opencamp.cn/EulixOS/camp/202501), [ISCAS](http://english.is.cas.cn/), China.
 - [2025.02-2025.05] R&D Group Leader _(in prep.)_ of [THUSAA](https://thusaac.com/), Tsinghua University, China.
   - We created [animations of PEFT algorithms](https://github.com/yuxuan-z19/peft-animation) and summarized their evolution and design.
@@ -46,16 +46,12 @@ Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance
 
 ### Publications
 
-<details>
- <summary>Others</summary>
- 
 - [arXiv - Pipelining Kruskal's: A Neuromorphic Approach for Minimum Spanning Tree](https://arxiv.org/abs/2505.10771)
-
-</details>
 
 ### Projects
 
-- [peft-animation](https://github.com/yuxuan-z19/peft-animation): animations of the PEFT algorithms
+<!-- - [peft-animation](https://github.com/yuxuan-z19/peft-animation): animations of the PEFT algorithms -->
+
 - [tree-hugger](https://github.com/yuxuan-z19/tree-hugger): An active fork staying updated with the latest [tree-sitter](https://github.com/tree-sitter/tree-sitter), currently focused on the C++ parser and queries.
 
 
