@@ -50,8 +50,4 @@ Benchmarked neuromorphic systems for 3 years (see [résumé](./yeehinc19.pdf)); 
 
 ### Projects
 
-<!-- - [peft-animation](https://github.com/yuxuan-z19/peft-animation): animations of the PEFT algorithms -->
-
-- [tree-hugger](https://github.com/yuxuan-z19/tree-hugger): An active fork staying updated with the latest [tree-sitter](https://github.com/tree-sitter/tree-sitter), currently focused on the C++ parser and queries.
-
-
+_Nothing here at the moment. BUT WHO CARES \_(:з」∠)\__
