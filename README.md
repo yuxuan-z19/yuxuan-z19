@@ -8,8 +8,7 @@ Benchmarked neuromorphic systems for 3 years (see [résumé](./yeehinc19.pdf)); 
 
 |Research Interests :microscope:| Hobbies :jigsaw:|
 |:-|:-|
-|- Training + Deployment of LLMs on Heterogeneous Clusters </br> - AI Compiler & Operation Generation </br> - LLM Finetuning + Quantization </br> - AutoML-driven Benchmarking | - [Honkai: Star Rail](https://hsr.hoyoverse.com/) & [Wuthering Waves](https://wutheringwaves.kurogames.com/en/) </br> - Writing LeetCode Weekly Contest Solutions </br> - Keeping up with advances in HPC + MLSys |
- <!-- _It is pretty easy to pronounce my name, as it shares the same pronunciation /jiː-hɪn tʃɔŋ/ (IPA) in any language, such as **チョン**·イーヒン in Japanese. My surname, CHONG, usually comes first in East Asian languages._ -->
+|- Training + Deployment of LLMs on Heterogeneous Clusters </br> - AI Compiler & Operation Generation </br> - LLM Finetuning + Quantization </br> - AutoML-driven Benchmarking | - [Honkai: Star Rail](https://hsr.hoyoverse.com/) & [Wuthering Waves](https://wutheringwaves.kurogames.com/en/) </br> - Solo-leveling from E-rank in the tech tree </br> - Keeping up with advances in HPC + MLSys |
 
 ### Education
 
@@ -32,7 +31,6 @@ Benchmarked neuromorphic systems for 3 years (see [résumé](./yeehinc19.pdf)); 
 - **[2025.04-Now] Huawei Campus Ambassador**
 - [2025.04-2025.05] Head TA for ["The 2nd EulixOS Training Camp"](https://opencamp.cn/EulixOS/camp/202501), [ISCAS](http://english.is.cas.cn/), China.
 - [2025.02-2025.05] R&D Group Leader _(in prep.)_ of [THUSAA](https://thusaac.com/), Tsinghua University, China.
-  - We created [animations of PEFT algorithms](https://github.com/yuxuan-z19/peft-animation) and summarized their evolution and design.
 - [2024.04-2025.04] Community Manager of [T+Z Technology Review](https://tanzhen.tsinghua.edu.cn/), Tsinghua University, China.
 - [2024.02-2025.02] General Office Assistant + PC Maintainer at [Humanities & Social Sciences Library](https://lib.tsinghua.edu.cn/hs/), Tsinghua University, China.
 - [2024-2025 Fall] TA _(part-time)_ for "Introduction to Computer Systems" (30240593), [Dept. CST](https://www.cs.tsinghua.edu.cn/), Tsinghua University, China.
