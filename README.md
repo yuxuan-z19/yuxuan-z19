@@ -20,8 +20,8 @@ Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance
 <details>
  <summary>Interns</summary>
 
- - [2025.06-Now] LLM Research Intern, [Baidu AI Cloud](https://cloud.baidu.com/)
- - [2022.06-2022.09] RTL Design Intern, Heterogeneous Computing Division, [Kuaishou Technology](https://zhaopin.kuaishou.cn/#/official/jianghu/) _(now [Transtreams Ltd.](https://www.transtreams.com/gylc))_
+ - [2025.06-Now] LLM Research Intern, [Baidu AI Cloud](https://cloud.baidu.com/) @baidubce
+ - [2022.06-2022.09] RTL Design Intern, Heterogeneous Computing Division, [Kuaishou Technology](https://zhaopin.kuaishou.cn/#/official/jianghu/) @kwai
    -  220831: Received the "Best Intern Award" (Top 3 Recipients)
 </details>
 
