@@ -8,7 +8,7 @@ Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance
 
 |Research Interests :microscope:| Hobbies :jigsaw:|
 |:-|:-|
-|- Training + Deployment of LLMs on Heterogeneous Clusters </br> - AI Compiler & Operation Generation </br> - LLM Finetuning + Quantization </br> - AutoML-driven Benchmarking | - [Honkai: Star Rail](https://hsr.hoyoverse.com/) & [Wuthering Waves](https://wutheringwaves.kurogames.com/en/) </br> - Solo-leveling from E-rank in LLM + MLSys |
+|- LLM Deployment on Heterogeneous Clusters </br> - AI Compiler & Kernel Generation </br> - LLM Finetuning + Quantization </br> - AutoML-driven Benchmarking | - [Honkai: Star Rail](https://hsr.hoyoverse.com/) & [Wuthering Waves](https://wutheringwaves.kurogames.com/en/) </br> - Solo-leveling from E-rank in LLM + MLSys </br> - ACGN nijigen ヾ(≧▽≦*)o |
 
 ### Education
 
@@ -17,11 +17,10 @@ Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance
 
 ### Experiences
 
-<details>
- <summary>Interns</summary>
+#### Interns
 
- - [2025.06-Now] LLM Research Intern, [Baidu AI Cloud](https://cloud.baidu.com/) @baidubce
- - [2022.06-2022.09] RTL Design Intern, Heterogeneous Computing Division, [Kuaishou Technology](https://zhaopin.kuaishou.cn/#/official/jianghu/) @kwai
+ - [2025.06-Now] LLM Research Intern, Model R&D Department, [Baidu AI Cloud](https://cloud.baidu.com/)
+ - [2022.06-2022.09] RTL Design Intern, Heterogeneous Computing Division, [Kuaishou Technology](https://zhaopin.kuaishou.cn/#/official/jianghu/)
    -  220831: Received the "Best Intern Award" (Top 3 Recipients)
 </details>
 
@@ -29,9 +28,9 @@ Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance
  <summary>Services</summary>
  
 - **{2025.04-Now} Huawei Campus Ambassador**
+- {2025.07-Now} Editor of [T+Z Technology Review](https://tanzhen.tsinghua.edu.cn/), Tsinghua University, China.
 - {2025.06-Now} TA for ["The 1st Docker Training Camp"](https://opencamp.ai/Docker/camp/202501), [Tencent Cloud](https://cloud.tencent.com/) (i.c.w. [OpenCamp](https://opencamp.cn/)), China.
 - {2025.04-2025.05} TA for ["The 2nd EulixOS Training Camp"](https://opencamp.cn/EulixOS/camp/202501), [ISCAS](http://english.is.cas.cn/) (i.c.w. [OpenCamp](https://opencamp.cn/)), China.
-- {2025.02-2025.05} R&D Group Leader _(in prep.)_ of [THUSAA](https://thusaac.com/), Tsinghua University, China.
 - {2024.04-2025.04} Community Manager of [T+Z Technology Review](https://tanzhen.tsinghua.edu.cn/), Tsinghua University, China.
 - {2024.02-2025.02} General Office Assistant + PC Maintainer at [Humanities & Social Sciences Library](https://lib.tsinghua.edu.cn/hs/), Tsinghua University, China.
 - {2024-2025 Fall} TA _(P/T)_ for "Introduction to Computer Systems" (30240593), [Dept. CST](https://www.cs.tsinghua.edu.cn/), Tsinghua University, China.
