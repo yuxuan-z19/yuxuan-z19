@@ -22,7 +22,6 @@ Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance
  - [2025.06-Now] LLM Research Intern, Model R&D Department, [Baidu AI Cloud](https://cloud.baidu.com/)
  - [2022.06-2022.09] RTL Design Intern, Heterogeneous Computing Division, [Kuaishou Technology](https://zhaopin.kuaishou.cn/#/official/jianghu/)
    -  220831: Received the "Best Intern Award" (Top 3 Recipients)
-</details>
 
 <details>
  <summary>Services</summary>
@@ -44,9 +43,14 @@ Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance
 
 ### Publications
 
-- [arXiv - Singular Value Decomposition on Kronecker Adaptation for Large Language Model](https://arxiv.org/abs/2506.15251)
-- [arXiv - Pipelining Kruskal's: A Neuromorphic Approach for Minimum Spanning Tree](https://arxiv.org/abs/2505.10771)
+<details>
+ <summary>arXiv's</summary>
+ 
+- [Singular Value Decomposition on Kronecker Adaptation for Large Language Model](https://arxiv.org/abs/2506.15251)
+- [Pipelining Kruskal's: A Neuromorphic Approach for Minimum Spanning Tree](https://arxiv.org/abs/2505.10771)
+
+</details>
 
 ### Projects
 
-_Nothing here at the moment. BUT WHO CARES \_(:з」∠)\__
+- [onnx-diff](https://github.com/yuxuan-z19/onnx-diff): A tool to diff your ONNX models, with a focus on graph topology alignment and matching.
