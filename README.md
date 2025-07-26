@@ -8,7 +8,7 @@ Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance
 
 |Research Interests :microscope:| Hobbies :jigsaw:|
 |:-|:-|
-|- LLM Deployment on Heterogeneous Clusters </br> - AI Compiler & Kernel Generation </br> - LLM Finetuning + Quantization </br> - AutoML-driven Benchmarking | - [Honkai: Star Rail](https://hsr.hoyoverse.com/) & [Wuthering Waves](https://wutheringwaves.kurogames.com/en/) </br> - Solo-leveling from E-rank in LLM + MLSys </br> - ACGN nijigen ヾ(≧▽≦*)o |
+|- LLM Deployment on Heterogeneous Clusters </br> - AI Compiler & Kernel Generation </br> - LLM Finetuning + Quantization </br> - AutoML-driven Benchmarking | - [Honkai: Star Rail](https://hsr.hoyoverse.com/) & [Wuthering Waves](https://wutheringwaves.kurogames.com/en/) </br> - Solo-leveling from E-rank in LLM + MLSys </br> |
 
 ### Education
 
@@ -20,7 +20,9 @@ Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance
 #### Interns
 
  - [2025.06-Now] LLM Research Intern, Model R&D Department, [Baidu AI Cloud](https://cloud.baidu.com/)
+   - Focused on DNN operator orchestration and synthesis driven by autonomous agents
  - [2022.06-2022.09] RTL Design Intern, Heterogeneous Computing Division, [Kuaishou Technology](https://zhaopin.kuaishou.cn/#/official/jianghu/)
+   - Engaged in RTL prototyping and design of custom AI accelerators developed in-house
    -  220831: Received the "Best Intern Award" (Top 3 Recipients)
 
 <details>
@@ -53,4 +55,5 @@ Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance
 
 ### Projects
 
-- [onnx-diff](https://github.com/yuxuan-z19/onnx-diff): A tool to diff your ONNX models, with a focus on graph topology alignment and matching.
+- [**onnxdiff**](https://github.com/yuxuan-z19/onnxdiff) A tool to diff your ONNX models, with a focus on graph topology alignment and matching
+  - maintaining a modernized [GraKel](https://github.com/yuxuan-z19/GraKeL) (c.f. [PR#123](https://github.com/ysig/GraKeL/pull/123))
