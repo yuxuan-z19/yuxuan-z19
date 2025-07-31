@@ -55,5 +55,4 @@ Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance
 
 ### Projects
 
-- [**onnxdiff**](https://github.com/yuxuan-z19/onnxdiff) A tool to diff your ONNX models, with a focus on graph topology alignment and matching
-  - maintaining a modernized [GraKel](https://github.com/yuxuan-z19/GraKeL) (c.f. [PR#123](https://github.com/ysig/GraKeL/pull/123))
+- [**diffonnx**](https://github.com/yuxuan-z19/diffonnx) - A powerful yet playful tool to compare and analyze ONNX models – whether you're hunting for hidden changes or debugging mysterious outputs
