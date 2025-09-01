@@ -8,12 +8,12 @@ Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance
 
 |Research Interests :microscope:| Hobbies :jigsaw:|
 |:-|:-|
-|- Making LLMs faster across Heterogeneous Clusters </br> - Smarter AI compiler and kernel generation </br> - Fair benchmarking with Double-ML + AutoML| - [Honkai: Star Rail](https://hsr.hoyoverse.com/) & [BanG Dream!](https://bang-dream.com/) </br> - Solo-leveling from E-rank in LLM codesign </br> |
+|- Making LLMs faster across heterogeneous clusters </br> - Smarter AI compiler and kernel generation </br> - Fair benchmarking with Double-ML + AutoML| - [Honkai: Star Rail](https://hsr.hoyoverse.com/) & [BanG Dream!](https://bang-dream.com/) </br> - Solo-leveling from E-rank in LLM codesign </br> |
 
 ### Education
 
-- {2023.06-Now} M.Eng. in Computer Science and Technology (Major in Computer Systems Organization), supervised by [Prof. Youhui Zhang](https://scholar.google.com/citations?hl=zh-CN&user=ZlYjCsAAAAAJ) with [CRAFT Lab](https://craft.cs.tsinghua.edu.cn/), Dept. CST, Tsinghua University, China. 
-- {2019.08-2023.06} B.Eng. in Computer Science and Technology, Dept. CST, Tsinghua University, China.
+- {2023.06-Now} M.Eng. in Computer Science and Technology (Major in Computer Systems Organization), supervised by [Prof. Youhui Zhang](https://scholar.google.com/citations?hl=zh-CN&user=ZlYjCsAAAAAJ) with [CRAFT Lab](https://craft.cs.tsinghua.edu.cn/), [Dept. CST](https://www.cs.tsinghua.edu.cn/), Tsinghua University, China.
+- {2019.08-2023.06} B.Eng. in Computer Science and Technology, [Dept. CST](https://www.cs.tsinghua.edu.cn/), Tsinghua University, China.
 
 ### Experiences
 
