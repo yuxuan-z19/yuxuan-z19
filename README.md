@@ -1,14 +1,14 @@
 # Ex-PERF, LLM codesign newbie
 
-_"Cleave the darkness, and seize the light / Daybreak's meant to be free / We are gonna shatter the ties "_ 
+_"No further hesitation / On those unanswered questions / So now, I'll make a dream unchained"_
 
 ## About Me
 
-Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance on heterogeneous clusters:
+Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance on heterogenenous clusters:
 
 |Research Interests :microscope:| Hobbies :jigsaw:|
 |:-|:-|
-|- LLM Deployment on Heterogeneous Clusters </br> - AI Compiler & Kernel Generation </br> - LLM Finetuning + Quantization </br> - AutoML-driven Benchmarking | - [Honkai: Star Rail](https://hsr.hoyoverse.com/) & [Wuthering Waves](https://wutheringwaves.kurogames.com/en/) </br> - Solo-leveling from E-rank in LLM + MLSys </br> |
+|- Making LLMs faster across Heterogeneous Clusters </br> - Smarter AI compiler and kernel generation </br> - Fair benchmarking with Double-ML + AutoML| - [Honkai: Star Rail](https://hsr.hoyoverse.com/) & [BanG Dream!](https://bang-dream.com/) </br> - Solo-leveling from E-rank in LLM codesign </br> |
 
 ### Education
 
@@ -19,9 +19,9 @@ Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance
 
 #### Interns
 
- - [2025.06-Now] LLM Research Intern, Model R&D Department, [Baidu AI Cloud](https://cloud.baidu.com/)
-   - Focused on DNN operator orchestration and synthesis driven by autonomous agents
- - [2022.06-2022.09] RTL Design Intern, Heterogeneous Computing Division, [Kuaishou Technology](https://zhaopin.kuaishou.cn/#/official/jianghu/)
+ - {2025.06-2025.09} LLM Research Intern, Model R&D Division, AI Cloud Group (ACG), [Baidu AI Cloud](https://cloud.baidu.com/)
+   - Focused on CUDA kernel generation driven by autonomous agents
+ - {2022.06-2022.09} RTL Design Intern, Heterogeneous Computing Division, [Kuaishou Technology](https://zhaopin.kuaishou.cn/#/official/jianghu/)
    - Engaged in RTL prototyping and design of custom AI accelerators developed in-house
    -  220831: Received the "Best Intern Award" (Top 3 Recipients)
 
@@ -29,6 +29,7 @@ Benchmarked neuromorphic systems for 3 years; now wrestling with LLM performance
  <summary>Services</summary>
  
 - **{2025.04-Now} Huawei Campus Ambassador**
+- {2025.09-Now} TA for "Big Data and Machine Intelligence" / 《大数据与机器智能》 (01510243), [iCenter](https://www.icenter.tsinghua.edu.cn/), Tsinghua University, China.
 - {2025.07-Now} Editor of [T+Z Technology Review](https://tanzhen.tsinghua.edu.cn/), Tsinghua University, China.
 - {2025.06-Now} TA for ["The 1st Docker Training Camp"](https://opencamp.ai/Docker/camp/202501), [Tencent Cloud](https://cloud.tencent.com/) (i.c.w. [OpenCamp](https://opencamp.cn/)), China.
 - {2025.04-2025.05} TA for ["The 2nd EulixOS Training Camp"](https://opencamp.cn/EulixOS/camp/202501), [ISCAS](http://english.is.cas.cn/) (i.c.w. [OpenCamp](https://opencamp.cn/)), China.
